@@ -3,3 +3,5 @@ Arroz
 Laranja
 Limão
 Maçã
+Banan 
+pera
