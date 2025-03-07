@@ -5,3 +5,5 @@ Limão
 Maçã
 Banan 
 pera
+cenoura
+Couve
